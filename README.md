@@ -1,5 +1,8 @@
 # ERAv2-S6
 Back Propagation
+![image](https://github.com/Basant-Personal/ERAv2-S6/assets/160412899/175150d3-f3b6-4a23-a915-37d63ba2c3e9)
+
+
 
 Learning Rate 0.1
 ![image](https://github.com/Basant-Personal/ERAv2-S6/assets/160412899/b3224d9a-a258-48e6-afb5-344a693bc3ee)
